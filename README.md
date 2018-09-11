@@ -1,0 +1,2 @@
+# TicTacToe
+A simple text based game of TicTacToe which can be played against the computer (no logic, random valid moves).The object of the game is to achieve 3 of either "x" or "o" in a row. If by the end of the game there is no winner, it is a draw.  The player can input numbers seen on the board which are still available. If the number has been taken and replaced with either an "x" or an "o", then the user will receive an error prompt asking for them to input a valid board place.
